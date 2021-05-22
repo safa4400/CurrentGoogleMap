@@ -1,0 +1,17 @@
+<application>
+  <component name="DimensionService">
+    <location key="#HTTP_Proxy.0.0.1366.768" x="468" y="94" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="691" y="338" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="463" y="104" />
+    <location key="SettingsEditor.0.0.1366.768" x="169" y="8" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="862" y="516" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1366.768" x="263" y="18" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="263" y="18" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="379" y="186" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="190" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="133" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="133" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="133" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="133" />
+  </component>
+</application>
